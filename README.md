@@ -2,4 +2,4 @@
 psd to html
 
 
-# https://itiskamrul.github.io/burnstudio/
+# https://developerkamrul.github.io/burnstudio/
